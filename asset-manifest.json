@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnimaToReactTesting/static/css/main.00d1e0c8.css",
-    "main.js": "/AnimaToReactTesting/static/js/main.bf6490e6.js",
+    "main.css": "/AnimaToReactTesting/static/css/main.92dfe780.css",
+    "main.js": "/AnimaToReactTesting/static/js/main.9d49c465.js",
     "index.html": "/AnimaToReactTesting/index.html",
     "static/media/-icon-menu-1.svg": "/AnimaToReactTesting/static/media/-icon-menu-1.1eb64627d9a104b1751df1f7439e077a.svg",
     "static/media/-icon-background.svg": "/AnimaToReactTesting/static/media/-icon-background.9a74cbe4027e99ed1380.svg",
-    "main.00d1e0c8.css.map": "/AnimaToReactTesting/static/css/main.00d1e0c8.css.map",
-    "main.bf6490e6.js.map": "/AnimaToReactTesting/static/js/main.bf6490e6.js.map"
+    "main.92dfe780.css.map": "/AnimaToReactTesting/static/css/main.92dfe780.css.map",
+    "main.9d49c465.js.map": "/AnimaToReactTesting/static/js/main.9d49c465.js.map"
   },
   "entrypoints": [
-    "static/css/main.00d1e0c8.css",
-    "static/js/main.bf6490e6.js"
+    "static/css/main.92dfe780.css",
+    "static/js/main.9d49c465.js"
   ]
 }
