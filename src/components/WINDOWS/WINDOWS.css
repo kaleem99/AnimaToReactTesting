@@ -1,0 +1,46 @@
+.windows,
+.windows-1,
+.windows-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 239px;
+  height: 229px;
+  left: 81px;
+  min-width: 299px;
+  position: absolute;
+  top: 62px;
+}
+
+.window-container,
+.window-container-1,
+.window-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-bottom: 0;
+  min-height: 229px;
+  width: 30px;
+}
+
+.window-3,
+.window-4,
+.window-5 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--black);
+  height: 55px;
+  margin-left: 0;
+  width: 30px;
+}
+
+.window,
+.window-1,
+.window-2 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--black);
+  height: 55px;
+  width: 30px;
+}
+

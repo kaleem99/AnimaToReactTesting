@@ -1,0 +1,30 @@
+.hamburger {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 725px;
+  position: relative;
+  width: 1200px;
+}
+
+.vector-1-1 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 78px;
+  margin-top: 64px;
+  width: 46px;
+}
+
+.surname-2 {
+  /* height: 227px
+px
+; */
+  letter-spacing: 0;
+  /* width: 619px; */
+  align-self: center;
+  /* margin-top: 92px; */
+  /* margin-left: 207px; */
+  line-height: 22px;
+}

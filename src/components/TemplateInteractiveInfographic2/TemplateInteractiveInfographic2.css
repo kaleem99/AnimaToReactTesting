@@ -1,0 +1,62 @@
+.template_interactive-infographic-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 320px;
+}
+
+.page-content-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  position: relative;
+}
+
+.content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 32px;
+  position: relative;
+}
+
+.content-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.option-1-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.sapien-non-cursus-mi-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+}
+
+.image-1 {
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 250px;
+  min-width: 320px;
+  position: relative;
+}
+

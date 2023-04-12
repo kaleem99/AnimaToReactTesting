@@ -1,0 +1,56 @@
+.template_interactive {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 725px;
+  position: relative;
+  width: 1200px;
+}
+
+.page-content {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  height: 587px;
+  justify-content: center;
+  padding: 80px 104px;
+  position: relative;
+  width: 1200px;
+}
+
+.copy {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.subhead-copy-here {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.buttons-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+

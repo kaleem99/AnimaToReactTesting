@@ -1,0 +1,33 @@
+.component-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 219px;
+  min-width: 241px;
+}
+
+.component-1-1 {
+  align-items: flex-end;
+  background-color: #bebebe;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  min-height: 219px;
+  padding: 17px 18px;
+  width: 241px;
+}
+
+.surname {
+  cursor: pointer;
+  height: 49px;
+  letter-spacing: 0;
+  line-height: 22px;
+  width: 203px;
+}
+
+#overlay-component-1 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+

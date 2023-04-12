@@ -1,0 +1,10 @@
+.pop-up {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 725px;
+  position: relative;
+  width: 1200px;
+}
+

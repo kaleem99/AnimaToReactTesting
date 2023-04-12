@@ -1,0 +1,32 @@
+.template-header-bar {
+  align-items: center;
+  background-color: var(--eerie-black);
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 24px 32px;
+  position: relative;
+  width: 1200px;
+}
+
+.infographic-title-goes-here {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.ui-option {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.template-header-bar.template-header-bar-5 {
+  align-self: stretch;
+  width: unset;
+}
+

@@ -1,0 +1,227 @@
+.field-inputs {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 725px;
+  position: relative;
+  width: 1200px;
+}
+
+.title-3 {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-right: 32.0px;
+  margin-top: 114px;
+  min-width: 328px;
+  white-space: nowrap;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  gap: 64px;
+  margin-left: 1.0px;
+  margin-top: 33px;
+  min-width: 361px;
+}
+
+.name {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 4.0px;
+  min-width: 54px;
+  white-space: nowrap;
+}
+
+.overlap-group1-3 {
+  height: 36px;
+  position: relative;
+  width: 243px;
+}
+
+.rectangle-15 {
+  background-color: var(--concrete);
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 243px;
+}
+
+.john-jane {
+  background-color: transparent;
+  border: 0;
+  height: 35px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 22px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.john-jane::placeholder,
+.mr-mrs::placeholder,
+.johngmailcom::placeholder,
+.x098-777-383::placeholder,
+.im-trying-out-anima::placeholder {
+  color: #00000099;
+}
+
+.flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 77px;
+  margin-left: 1.0px;
+  margin-top: 7px;
+  min-width: 361px;
+}
+
+.title-4 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 1.0px;
+  min-width: 41px;
+  white-space: nowrap;
+}
+
+.overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--concrete);
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  min-width: 243px;
+}
+
+.mr-mrs,
+.johngmailcom {
+  background-color: transparent;
+  border: 0;
+  height: 34px;
+  letter-spacing: 0;
+  line-height: 22px;
+  padding: 0;
+  width: 241px;
+}
+
+.flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 68px;
+  margin-left: 1.0px;
+  margin-top: 7px;
+  min-width: 361px;
+}
+
+.email {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 3.0px;
+  min-width: 50px;
+  white-space: nowrap;
+}
+
+.flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 61px;
+  margin-left: 1.0px;
+  margin-top: 5px;
+  min-width: 361px;
+}
+
+.phone {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 3px;
+  min-width: 57px;
+  white-space: nowrap;
+}
+
+.overlap-group4-3 {
+  height: 37px;
+  position: relative;
+  width: 243px;
+}
+
+.rectangle-18 {
+  background-color: var(--concrete);
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 243px;
+}
+
+.x098-777-383 {
+  background-color: transparent;
+  border: 0;
+  height: 34px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 22px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 52px;
+  margin-left: 1.0px;
+  margin-top: 6px;
+  min-width: 361px;
+}
+
+.message {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 13px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.overlap-group3-2 {
+  height: 135px;
+  position: relative;
+  width: 243px;
+}
+
+.rectangle-19 {
+  background-color: var(--concrete);
+  height: 134px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 243px;
+}
+
+.im-trying-out-anima {
+  background-color: transparent;
+  border: 0;
+  height: 134px;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 22px;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+

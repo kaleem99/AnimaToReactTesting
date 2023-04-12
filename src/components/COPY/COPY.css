@@ -1,0 +1,38 @@
+.copy-1,
+.copy-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.title-1,
+.title-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.subhead-copy-here-1,
+.subhead-copy-here-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.buttons-2,
+.buttons-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+

@@ -1,0 +1,49 @@
+.sign,
+.sign-1,
+.sign-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 59.8px;
+  display: flex;
+  height: 120px;
+  justify-content: flex-end;
+  left: 171px;
+  min-width: 120px;
+  padding: 21.4px 21.4px;
+  position: absolute;
+  top: 50px;
+}
+
+.overlap-group4,
+.overlap-group4-1,
+.overlap-group4-2 {
+  height: 77px;
+  position: relative;
+  width: 77px;
+}
+
+.rectangle-13,
+.rectangle-13-1,
+.rectangle-13-2 {
+  background-color: var(--eerie-black);
+  height: 77px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.rectangle-14,
+.rectangle-14-1,
+.rectangle-14-2 {
+  background-color: var(--eerie-black);
+  height: 77px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 22px;
+}
+

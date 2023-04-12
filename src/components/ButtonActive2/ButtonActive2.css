@@ -1,0 +1,42 @@
+.button-active-7 {
+  align-items: center;
+  border: 2px solid;
+  border-color: var(--eerie-black);
+  border-radius: 180px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  margin-top: -1.00px;
+  overflow: hidden;
+  padding: 16px 64px;
+  position: relative;
+  width: 183.0px;
+}
+
+.default-7 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-active-7.button-active-8,
+.button-active-7.button-active-9 {
+  margin-right: -1.00px;
+}
+
+.button-active-7.button-active-10 {
+  margin-left: -1.00px;
+}
+
+.button-active-7.button-active-11 {
+  align-self: stretch;
+  margin-bottom: unset;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  width: unset;
+}
+

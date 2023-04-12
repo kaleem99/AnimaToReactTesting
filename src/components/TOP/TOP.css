@@ -1,0 +1,61 @@
+.top,
+.top-2,
+.top-4 {
+  height: 244px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.overlap-group1,
+.overlap-group1-1,
+.overlap-group1-2 {
+  height: 244px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.top-1,
+.top-3,
+.top-5 {
+  background-color: var(--cape-cod);
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.line-6,
+.line-6-1,
+.line-6-2 {
+  height: 244px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.line-1,
+.line-1-1,
+.line-1-2 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: -2px;
+  width: 200px;
+}
+
+.line-7,
+.line-7-1,
+.line-7-2 {
+  height: 244px;
+  left: 191px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+

@@ -1,0 +1,70 @@
+.template_interactive-infographic {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 675px;
+  position: relative;
+  width: 1200px;
+}
+
+.page-content-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 56px;
+  position: relative;
+}
+
+.content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  padding: 40px 0px 64px 96px;
+  position: relative;
+}
+
+.copy-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.option-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 23px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.sapien-non-cursus-mi {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+}
+
+.buttons-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 48px;
+  position: relative;
+}
+
+.image {
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 587px;
+  min-width: 572px;
+  position: relative;
+}
+

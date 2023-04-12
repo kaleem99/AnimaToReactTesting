@@ -1,0 +1,27 @@
+.nav_breadcrumbs {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 24px;
+  position: relative;
+}
+
+.nav_breadcrumbs-item {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav_breadcrumbs-item-1 {
+  height: 9.99px;
+  min-width: 4.86px;
+  position: relative;
+}
+
+.nav_breadcrumbs.nav_breadcrumbs-1 {
+  gap: 6px;
+}
+

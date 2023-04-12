@@ -1,0 +1,21 @@
+.template_interactive-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 725px;
+  position: relative;
+  width: 1200px;
+}
+
+.page-content-1 {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  height: 587px;
+  justify-content: center;
+  padding: 80px 104px;
+  position: relative;
+  width: 1200px;
+}
+

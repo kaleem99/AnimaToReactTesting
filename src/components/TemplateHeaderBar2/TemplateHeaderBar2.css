@@ -1,0 +1,39 @@
+.template-header-bar-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--eerie-black);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.title-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.infographic-title-goes-here-7 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.ui-option-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
