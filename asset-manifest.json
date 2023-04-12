@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AnimaToReactTesting/static/css/main.00d1e0c8.css",
-    "main.js": "/AnimaToReactTesting/static/js/main.e52fba9b.js",
+    "main.js": "/AnimaToReactTesting/static/js/main.bf6490e6.js",
     "index.html": "/AnimaToReactTesting/index.html",
     "static/media/-icon-menu-1.svg": "/AnimaToReactTesting/static/media/-icon-menu-1.1eb64627d9a104b1751df1f7439e077a.svg",
     "static/media/-icon-background.svg": "/AnimaToReactTesting/static/media/-icon-background.9a74cbe4027e99ed1380.svg",
     "main.00d1e0c8.css.map": "/AnimaToReactTesting/static/css/main.00d1e0c8.css.map",
-    "main.e52fba9b.js.map": "/AnimaToReactTesting/static/js/main.e52fba9b.js.map"
+    "main.bf6490e6.js.map": "/AnimaToReactTesting/static/js/main.bf6490e6.js.map"
   },
   "entrypoints": [
     "static/css/main.00d1e0c8.css",
-    "static/js/main.e52fba9b.js"
+    "static/js/main.bf6490e6.js"
   ]
 }
